@@ -1,6 +1,6 @@
-Nama:
-NPM:
-Kode Soal:
+Nama: Richard Ricardo
+NPM: 21312024
+Kode Soal: Genap (B)
 
 1. Sistem apa yang anda kembangkan?
 Jawab: Sistem Informasi terintegrasi Klinik XYZ berbasis Web
