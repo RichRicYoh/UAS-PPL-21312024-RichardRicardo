@@ -3,16 +3,20 @@ NPM:
 Kode Soal:
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Sistem Informasi terintegrasi Klinik XYZ berbasis Web
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Ketidakefektifan dan ketidakefisienan proses registrasi pasien, 
+       pelaporan sampai dengan pembayaran sehingga mengakibatkan beban kerja bertambah, 
+       penumpukan berkas, proses pencarian informasi cukup lama dan seringkali berisiko kerusakan maupun kehilangan data-data penting.
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Dengan membuat sistem informasi terintegrasi berbasis web pada Klinik XYZ
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab: dengan menggunakan sistem informasi terintegrasi user dan admin akan lebih mudah memanajemen informasi serta 
+       dengan menggunakan web, semua orang dapat menjangkau nya dan lebih mudah dipakai.
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab: Kendala nya adalah proses pembuatan yang cukup singkat yaitu 3 bulan dan mempunyai resiko banyaknya bug dikarenakan waktu yang singkat sehingga
+       debugging sistem yang kurang efektif.

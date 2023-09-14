@@ -1,9 +1,11 @@
-Nama:
-NPM:
-Prodi:
+Nama: Richard Ricardo
+NPM: 21312024
+Prodi: Informatika
 
 Link hasil perencanaan sistem menggunakan BRD:
-*upload BRD ke drive dan pastikan akses file bersifat public
+https://drive.google.com/file/d/1S1TxjfbvCFe9hXwKLj6VuVt6cxgfOceA/view?usp=drive_link
+
 
 Link hasil perencanaan sistem menggunakan Trello:
-*upload link trello dan pastikan akses board bersifat public
+https://trello.com/b/PSOmN65R/rapid-application-development
+
